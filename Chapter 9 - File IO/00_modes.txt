@@ -1,0 +1,13 @@
+Modes of opening a file
+
+r --> open for Reading
+
+w --> open for Writing
+
+a --> open for Appending
+
++ --> open for Updating
+
+‘rb’ will open for Read in binary mode
+
+‘rt’ will open for Read in text mode.
